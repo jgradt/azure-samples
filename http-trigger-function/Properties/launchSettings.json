@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "HttpTriggerFunction1": {
+      "commandName": "Project"
+    }
+  }
+}
